@@ -1,0 +1,111 @@
+Main Assets
+
+Crypto
+    Bitcoin/Dollar: BTC-USD
+    Ethereum/Dollar: ETH-USD
+    Binance Coin/Dollar: BNB-USD
+    Tether/Dollar: USDT-USD
+    Cardano/Dollar: ADA-USD
+    Solana/Dollar: SOL-USD
+    XRP/Dollar: XRP-USD
+    Dogecoin/Dollar: DOGE-USD
+    Polkadot/Dollar: DOT-USD
+    Shiba Inu/Dollar: SHIB-USD
+    Litecoin/Dollar: LTC-USD
+    Avalanche/Dollar: AVAX-USD
+    Chainlink/Dollar: LINK-USD
+    Cosmos/Dollar: ATOM-USD
+    Stellar/Dollar: XLM-USD
+    Uniswap/Dollar: UNI-USD
+    Monero/Dollar: XMR-USD
+    Aave/Dollar: AAVE-USD
+    Decentraland/Dollar: MANA-USD
+    Sandbox/Dollar: SAND-USD
+
+Brazilian Stocks
+    Vale: VALE3.SA
+    Petrobras PN: PETR4.SA
+    Itaú Unibanco: ITUB4.SA
+    Bradesco PN: BBDC4.SA
+    Banco do Brasil: BBAS3.SA
+    Magazine Luiza: MGLU3.SA
+    Ambev: ABEV3.SA
+    WEG: WEGE3.SA
+    Localiza: RENT3.SA
+    Suzano: SUZB3.SA
+    Eletrobras ON: ELET3.SA
+    Cosan: CSAN3.SA
+    JBS: JBSS3.SA
+    Klabin: KLBN11.SA
+    Telefônica Brasil: VIVT3.SA
+    Multiplan: MULT3.SA
+    Banco Inter: BIDI11.SA
+    Gol: GOLL4.SA
+    Azul: AZUL4.SA
+    Ultrapar: UGPA3.SA
+
+Brazilian Real Estate Investment Funds (FIIs)
+    Kinea Renda Imobiliária: KNRI11
+    XP Malls: XPML11
+    Vinci Shopping Centers: VISC11
+    HGLG Renda Urbana: HGLG11
+    BTG Pactual Corporate: BRCR11
+    Iridium Recebíveis: IRDM11
+    CSHG Renda Urbana: HGRU11
+    FII Maxi Renda: MXRF11
+    RBR Alpha Multiestratégia: RBRF11
+    Hedge Top FOFII: HFOF11
+    Mérito Renda Imobiliária: MFII11
+    XP Logística: XPLG11
+    BTG Pactual Logística: BTLG11
+    TRX Real Estate: TRXF11
+    RBR Properties: RBRP11
+    CSHG Logística: HGLG11
+    FII Vinci Offices: VINO11
+    RB Capital Prime Properties: RBPR11
+    Malls Brasil Plural: MALL11
+    Kinea High Yield: KNHY11
+
+American Stocks
+    Apple: AAPL
+    Microsoft: MSFT
+    Amazon: AMZN
+    Alphabet (Google): GOOGL
+    Tesla: TSLA
+    Meta Platforms (Facebook): META
+    NVIDIA: NVDA
+    Berkshire Hathaway: BRK-B
+    Johnson & Johnson: JNJ
+    JPMorgan Chase: JPM
+    Exxon Mobil: XOM
+    Procter & Gamble: PG
+    Visa: V
+    UnitedHealth Group: UNH
+    Coca-Cola: KO
+    Pfizer: PFE
+    Intel: INTC
+    AT&T: T
+    Walmart: WMT
+    Disney: DIS
+
+American Real Estate Investment Trusts (REITs)
+    Prologis: PLD
+    Realty Income: O
+    American Tower: AMT
+    Public Storage: PSA
+    Equinix: EQIX
+    Crown Castle: CCI
+    Simon Property Group: SPG
+    AvalonBay Communities: AVB
+    Digital Realty: DLR
+    Welltower: WELL
+    Ventas: VTR
+    Mid-America Apartment Communities: MAA
+    Essex Property Trust: ESS
+    Weyerhaeuser: WY
+    Alexandria Real Estate: ARE
+    Kimco Realty: KIM
+    Host Hotels & Resorts: HST
+    Iron Mountain: IRM
+    Invitation Homes: INVH
+    Omega Healthcare: OHI
